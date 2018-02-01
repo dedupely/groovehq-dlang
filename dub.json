@@ -1,0 +1,9 @@
+{
+	"name": "groovehq-dlang",
+	"authors": [
+		"Clinton Sakun"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2018, Clinton Sakun",
+	"license": "proprietary"
+}
